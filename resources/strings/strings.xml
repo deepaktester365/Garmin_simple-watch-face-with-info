@@ -6,12 +6,27 @@
     <string id="ForegroundColorTitle">Foreground Color</string>
     <string id="HoursColorTitle">Hours Color</string>
     <string id="MinsColorTitle">Mins Color</string>
+
     <string id="MilitaryFormatTitle">Military Format for 24 Hour Time</string>
-    <string id="BLEDisplayTitle">Bluetoth Connection Display</string>
-    <string id="DateDisplayTitle">Date Display</string>
-    <string id="BatteryDisplayTitle">Battery Display</string>
-    <string id="StepsDisplayTitle">Steps Display</string>
-    <string id="NotificationsDisplayTitle">Notifications Display</string>
+   	<string id="MF_0">Yes</string>
+   	<string id="MF_1">No</string>
+   	<string id="MF_2">Use System Default</string>
+
+    <string id="Row1Prop1Title">First Row Item 1</string>
+    <string id="Row1Prop2Title">First Row Item 2</string>
+    <string id="Row1Prop3Title">First Row Item 3</string>
+    <string id="Row2Prop1Title">Second Row Item 1</string>
+    <string id="Row2Prop2Title">Second Row Item 2</string>
+    <string id="Row2Prop3Title">Second Row Item 3</string>
+
+   	<string id="DF_0">None</string>
+   	<string id="DF_1">Date</string>
+   	<string id="DF_2">Phone connected</string>
+   	<string id="DF_3">Battery</string>
+   	<string id="DF_4">Steps</string>
+   	<string id="DF_5">Calories Burned</string>
+   	<string id="DF_6">Phone notifications</string>
+
     <string id="StepsCircleTitle">Steps Circle</string>
     <string id="StepsCircleColor1Title">Steps Circle Color Primary</string>
     <string id="StepsCircleColor2Title">Steps Circle Color Secondary</string>

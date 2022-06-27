@@ -5,5 +5,5 @@
     <font id="kdamBoldFont" antialias="true" filename="kdam_bold.fnt" filter="0123456789"/>
     <font id="caveatRegFont" filename="caveat_regular.fnt" filter=" 0123456789"/>
     <font id="caveatBoldFont" filename="caveat_bold.fnt" filter=" 0123456789"/>
-    <font id="iconFont" antialias="true" filename="icons_1.fnt" filter="01234567bsn"/>
+    <font id="iconFont" antialias="true" filename="icons_1.fnt" filter="01234567bclsn"/>
 </fonts>

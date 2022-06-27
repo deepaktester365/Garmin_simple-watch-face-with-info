@@ -59,28 +59,84 @@
         </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.UseMilitaryFormat" title="@Strings.MilitaryFormatTitle">
-        <settingConfig type="boolean" />
+   	<setting propertyKey="@Properties.UseMilitaryFormat" title="@Strings.MilitaryFormatTitle">
+         <settingConfig type="list">
+           	<listEntry value="0">@Strings.MF_0</listEntry>
+            <listEntry value="1">@Strings.MF_1</listEntry>
+            <listEntry value="2">@Strings.MF_2</listEntry>
+        </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.BLEDisplay" title="@Strings.BLEDisplayTitle">
-        <settingConfig type="boolean" />
+   	<setting propertyKey="@Properties.Row1Prop1" title="@Strings.Row1Prop1Title">
+         <settingConfig type="list">
+           	<listEntry value="0">@Strings.DF_0</listEntry>
+            <listEntry value="1">@Strings.DF_1</listEntry>
+            <listEntry value="2">@Strings.DF_2</listEntry>
+           	<listEntry value="3">@Strings.DF_3</listEntry>
+            <listEntry value="4">@Strings.DF_4</listEntry>
+            <listEntry value="5">@Strings.DF_5</listEntry>
+            <listEntry value="6">@Strings.DF_6</listEntry>
+        </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.BatteryDisplay" title="@Strings.BatteryDisplayTitle">
-        <settingConfig type="boolean" />
+   	<setting propertyKey="@Properties.Row1Prop2" title="@Strings.Row1Prop2Title">
+         <settingConfig type="list">
+           	<listEntry value="0">@Strings.DF_0</listEntry>
+            <listEntry value="1">@Strings.DF_1</listEntry>
+            <listEntry value="2">@Strings.DF_2</listEntry>
+           	<listEntry value="3">@Strings.DF_3</listEntry>
+            <listEntry value="4">@Strings.DF_4</listEntry>
+            <listEntry value="5">@Strings.DF_5</listEntry>
+            <listEntry value="6">@Strings.DF_6</listEntry>
+        </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.DateDisplay" title="@Strings.DateDisplayTitle">
-        <settingConfig type="boolean" />
+   	<setting propertyKey="@Properties.Row1Prop3" title="@Strings.Row1Prop3Title">
+         <settingConfig type="list">
+           	<listEntry value="0">@Strings.DF_0</listEntry>
+            <listEntry value="1">@Strings.DF_1</listEntry>
+            <listEntry value="2">@Strings.DF_2</listEntry>
+           	<listEntry value="3">@Strings.DF_3</listEntry>
+            <listEntry value="4">@Strings.DF_4</listEntry>
+            <listEntry value="5">@Strings.DF_5</listEntry>
+            <listEntry value="6">@Strings.DF_6</listEntry>
+        </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.StepsDisplay" title="@Strings.StepsDisplayTitle">
-        <settingConfig type="boolean" />
+   	<setting propertyKey="@Properties.Row2Prop1" title="@Strings.Row2Prop1Title">
+         <settingConfig type="list">
+           	<listEntry value="0">@Strings.DF_0</listEntry>
+            <listEntry value="1">@Strings.DF_1</listEntry>
+            <listEntry value="2">@Strings.DF_2</listEntry>
+           	<listEntry value="3">@Strings.DF_3</listEntry>
+            <listEntry value="4">@Strings.DF_4</listEntry>
+            <listEntry value="5">@Strings.DF_5</listEntry>
+            <listEntry value="6">@Strings.DF_6</listEntry>
+        </settingConfig>
     </setting>
 
-    <setting propertyKey="@Properties.NotificationsDisplay" title="@Strings.NotificationsDisplayTitle">
-        <settingConfig type="boolean" />
+   	<setting propertyKey="@Properties.Row2Prop2" title="@Strings.Row2Prop2Title">
+         <settingConfig type="list">
+           	<listEntry value="0">@Strings.DF_0</listEntry>
+            <listEntry value="1">@Strings.DF_1</listEntry>
+            <listEntry value="2">@Strings.DF_2</listEntry>
+           	<listEntry value="3">@Strings.DF_3</listEntry>
+            <listEntry value="4">@Strings.DF_4</listEntry>
+            <listEntry value="5">@Strings.DF_5</listEntry>
+            <listEntry value="6">@Strings.DF_6</listEntry>
+        </settingConfig>
+    </setting>
+
+   	<setting propertyKey="@Properties.Row2Prop3" title="@Strings.Row2Prop3Title">
+         <settingConfig type="list">
+           	<listEntry value="0">@Strings.DF_0</listEntry>
+            <listEntry value="1">@Strings.DF_1</listEntry>
+            <listEntry value="2">@Strings.DF_2</listEntry>
+           	<listEntry value="3">@Strings.DF_3</listEntry>
+            <listEntry value="4">@Strings.DF_4</listEntry>
+            <listEntry value="5">@Strings.DF_5</listEntry>
+            <listEntry value="6">@Strings.DF_6</listEntry>
+        </settingConfig>
     </setting>
 
     <setting propertyKey="@Properties.StepsCircle" title="@Strings.StepsCircleTitle">
