@@ -430,8 +430,8 @@
 <entry arg="true" endPc="268440123" name="type_1" stackId="3" startPc="268438485"/>
 <entry arg="true" endPc="268440123" name="dc" stackId="1" startPc="268438485"/>
 <entry arg="true" endPc="268440123" name="field_num" stackId="2" startPc="268438485"/>
-<entry endPc="268440369" name="rez_cmp_local_custom_drawable_12610975251180889376" stackId="2" startPc="268440156"/>
 <entry endPc="268440369" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268440156"/>
+<entry endPc="268440369" name="rez_cmp_local_custom_drawable_73796801187304563858" stackId="2" startPc="268440156"/>
 <entry arg="true" endPc="268440370" name="dc" stackId="1" startPc="268440144"/>
 </localVars>
 <annotations>

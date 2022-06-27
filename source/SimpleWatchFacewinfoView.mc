@@ -157,7 +157,7 @@ class SimpleWatchFacewinfoView extends WatchUi.WatchFace {
 
     function getBatteryData() {
         var stats = System.getSystemStats();
-        var bat_value = (stats.battery/22).toNumber();
+        var bat_value = (stats.battery/13.5).toNumber();
         return {"text" => bat_value.toString(), "font" => "icon", "color" => foregroundColor};
     }
 
