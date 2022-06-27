@@ -1,0 +1,17 @@
+<properties>
+
+    <property id="BackgroundColor" type="number">0x000000</property>
+    <property id="ForegroundColor" type="number">0xFFFFFF</property>
+    <property id="HoursColor" type="number">0xFFFFFF</property>
+    <property id="MinsColor" type="number">0x8B0000</property>
+    <property id="StepsCircleColor1" type="number">0x8B0000</property>
+    <property id="StepsCircleColor2" type="number">0x00FF00</property>
+    <property id="UseMilitaryFormat" type="boolean">false</property>
+    <property id="BLEDisplay" type="boolean">true</property>
+    <property id="BatteryDisplay" type="boolean">true</property>
+    <property id="DateDisplay" type="boolean">true</property>
+    <property id="StepsDisplay" type="boolean">true</property>
+    <property id="NotificationsDisplay" type="boolean">true</property>
+    <property id="StepsCircle" type="boolean">true</property>
+
+</properties>

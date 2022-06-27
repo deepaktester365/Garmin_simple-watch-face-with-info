@@ -1,0 +1,7 @@
+Simple Watch face with Digital time. And the ability to add the following data fields,
+1. Date and day of the week
+2. Notifications
+3. Bluetooth connection
+4. Battery Status
+5. Number of steps 
+6. Steps Circle (Steps/Steps Goal)

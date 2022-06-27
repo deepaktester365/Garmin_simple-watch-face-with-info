@@ -1,0 +1,9 @@
+<fonts>
+    <font id="customFont" filename="custom.fnt" filter="0123456789"/>
+    <font id="robotoFont" filename="roboto.fnt" filter=" 0123456789FMSTWadehinortu"/>
+    <font id="kdamRegFont" antialias="true" filename="kdam_regular.fnt" filter="0123456789"/>
+    <font id="kdamBoldFont" filename="kdam_bold.fnt" filter="0123456789"/>
+    <font id="caveatRegFont" filename="caveat_regular.fnt" filter=" 0123456789"/>
+    <font id="caveatBoldFont" filename="caveat_bold.fnt" filter=" 0123456789"/>
+    <font id="iconFont" filename="icons_1.fnt" filter="01234bsn"/>
+</fonts>

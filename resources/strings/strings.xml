@@ -1,0 +1,28 @@
+<strings>
+
+    <string id="AppName">Face1</string>
+
+    <string id="BackgroundColorTitle">Background Color</string>
+    <string id="ForegroundColorTitle">Foreground Color</string>
+    <string id="HoursColorTitle">Hours Color</string>
+    <string id="MinsColorTitle">Mins Color</string>
+    <string id="MilitaryFormatTitle">Military Format for 24 Hour Time</string>
+    <string id="BLEDisplayTitle">Bluetoth Connection Display</string>
+    <string id="DateDisplayTitle">Date Display</string>
+    <string id="BatteryDisplayTitle">Battery Display</string>
+    <string id="StepsDisplayTitle">Steps Display</string>
+    <string id="NotificationsDisplayTitle">Notifications Display</string>
+    <string id="StepsCircleTitle">Steps Circle</string>
+    <string id="StepsCircleColor1Title">Steps Circle Color Primary</string>
+    <string id="StepsCircleColor2Title">Steps Circle Color Secondary</string>
+
+    <string id="ColorBlack">Black</string>
+    <string id="ColorDarkGray">Dark Gray</string>
+    <string id="ColorLightGray">Light Gray</string>
+    <string id="ColorWhite">White</string>
+    <string id="ColorBlue">Blue</string>
+    <string id="ColorRed">Red</string>
+    <string id="ColorDKRed">Dark Red</string>
+    <string id="ColorGreen">Green</string>
+
+</strings>

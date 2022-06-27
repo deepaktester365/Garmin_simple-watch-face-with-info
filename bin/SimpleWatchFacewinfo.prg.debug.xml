@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\dkrishn\Documents\Deepak\Programming\Monkey C\Projects\SimpleWatchFacewinfo\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoApp.mc" id="1" lineNum="7" parent="globals/SimpleWatchFacewinfoApp" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoApp.mc" id="1" lineNum="8" parent="globals/SimpleWatchFacewinfoApp" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoApp.mc" id="2" lineNum="12" parent="globals/SimpleWatchFacewinfoApp" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoApp.mc" id="3" lineNum="16" parent="globals/SimpleWatchFacewinfoApp" pc="268435484" symbol="onStop"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoApp.mc" id="4" lineNum="20" parent="globals/SimpleWatchFacewinfoApp" pc="268435489" symbol="getInitialView"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoApp.mc" id="4" lineNum="21" parent="globals/SimpleWatchFacewinfoApp" pc="268435493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoApp.mc" id="5" lineNum="25" parent="globals/SimpleWatchFacewinfoApp" pc="268435531" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoApp.mc" id="5" lineNum="26" parent="globals/SimpleWatchFacewinfoApp" pc="268435535" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoApp.mc" id="6" lineNum="5" parent="globals/SimpleWatchFacewinfoApp" pc="268440391" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoApp.mc" id="6" lineNum="5" parent="globals/SimpleWatchFacewinfoApp" pc="268440391" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoApp.mc" id="7" lineNum="31" parent="globals" pc="268435552" symbol="getApp"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoApp.mc" id="7" lineNum="32" parent="globals" pc="268435564" symbol="getApp"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoBackground.mc" id="9" lineNum="8" parent="globals/Background" pc="268435581" symbol="initialize"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoBackground.mc" id="9" lineNum="9" parent="globals/Background" pc="268435585" symbol="initialize"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoBackground.mc" id="9" lineNum="13" parent="globals/Background" pc="268435606" symbol="initialize"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoBackground.mc" id="10" lineNum="16" parent="globals/Background" pc="268435627" symbol="draw"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoBackground.mc" id="10" lineNum="18" parent="globals/Background" pc="268435631" symbol="draw"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoBackground.mc" id="10" lineNum="19" parent="globals/Background" pc="268435680" symbol="draw"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoBackground.mc" id="11" lineNum="6" parent="globals/Background" pc="268440372" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoBackground.mc" id="11" lineNum="6" parent="globals/Background" pc="268440372" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="13" lineNum="49" parent="globals/SimpleWatchFacewinfoView" pc="268435693" symbol="initialize"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="13" lineNum="50" parent="globals/SimpleWatchFacewinfoView" pc="268435697" symbol="initialize"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="14" lineNum="53" parent="globals/SimpleWatchFacewinfoView" pc="268435720" symbol="onLayout"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="14" lineNum="55" parent="globals/SimpleWatchFacewinfoView" pc="268435724" symbol="onLayout"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="14" lineNum="56" parent="globals/SimpleWatchFacewinfoView" pc="268435743" symbol="onLayout"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="14" lineNum="58" parent="globals/SimpleWatchFacewinfoView" pc="268435762" symbol="onLayout"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="61" parent="globals/SimpleWatchFacewinfoView" pc="268435777" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="62" parent="globals/SimpleWatchFacewinfoView" pc="268435781" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="63" parent="globals/SimpleWatchFacewinfoView" pc="268435818" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="64" parent="globals/SimpleWatchFacewinfoView" pc="268435855" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="65" parent="globals/SimpleWatchFacewinfoView" pc="268435892" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="66" parent="globals/SimpleWatchFacewinfoView" pc="268435929" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="67" parent="globals/SimpleWatchFacewinfoView" pc="268435966" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="69" parent="globals/SimpleWatchFacewinfoView" pc="268436003" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="70" parent="globals/SimpleWatchFacewinfoView" pc="268436040" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="71" parent="globals/SimpleWatchFacewinfoView" pc="268436077" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="72" parent="globals/SimpleWatchFacewinfoView" pc="268436114" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="73" parent="globals/SimpleWatchFacewinfoView" pc="268436151" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="74" parent="globals/SimpleWatchFacewinfoView" pc="268436188" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="76" parent="globals/SimpleWatchFacewinfoView" pc="268436225" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="78" parent="globals/SimpleWatchFacewinfoView" pc="268436262" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="79" parent="globals/SimpleWatchFacewinfoView" pc="268436290" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="80" parent="globals/SimpleWatchFacewinfoView" pc="268436302" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="81" parent="globals/SimpleWatchFacewinfoView" pc="268436316" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="82" parent="globals/SimpleWatchFacewinfoView" pc="268436319" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="83" parent="globals/SimpleWatchFacewinfoView" pc="268436322" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="84" parent="globals/SimpleWatchFacewinfoView" pc="268436325" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="86" parent="globals/SimpleWatchFacewinfoView" pc="268436328" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="87" parent="globals/SimpleWatchFacewinfoView" pc="268436339" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="89" parent="globals/SimpleWatchFacewinfoView" pc="268436358" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="90" parent="globals/SimpleWatchFacewinfoView" pc="268436383" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="92" parent="globals/SimpleWatchFacewinfoView" pc="268436402" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="93" parent="globals/SimpleWatchFacewinfoView" pc="268436413" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="95" parent="globals/SimpleWatchFacewinfoView" pc="268436432" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="96" parent="globals/SimpleWatchFacewinfoView" pc="268436443" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="98" parent="globals/SimpleWatchFacewinfoView" pc="268436462" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="99" parent="globals/SimpleWatchFacewinfoView" pc="268436467" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="101" parent="globals/SimpleWatchFacewinfoView" pc="268436493" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="103" parent="globals/SimpleWatchFacewinfoView" pc="268436516" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="104" parent="globals/SimpleWatchFacewinfoView" pc="268436521" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="106" parent="globals/SimpleWatchFacewinfoView" pc="268436547" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="108" parent="globals/SimpleWatchFacewinfoView" pc="268436570" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="15" lineNum="109" parent="globals/SimpleWatchFacewinfoView" pc="268436581" symbol="onUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="16" lineNum="114" parent="globals/SimpleWatchFacewinfoView" pc="268436599" symbol="getTimeData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="16" lineNum="115" parent="globals/SimpleWatchFacewinfoView" pc="268436603" symbol="getTimeData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="16" lineNum="116" parent="globals/SimpleWatchFacewinfoView" pc="268436620" symbol="getTimeData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="16" lineNum="117" parent="globals/SimpleWatchFacewinfoView" pc="268436630" symbol="getTimeData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="16" lineNum="118" parent="globals/SimpleWatchFacewinfoView" pc="268436654" symbol="getTimeData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="16" lineNum="119" parent="globals/SimpleWatchFacewinfoView" pc="268436678" symbol="getTimeData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="17" lineNum="122" parent="globals/SimpleWatchFacewinfoView" pc="268436716" symbol="timeUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="17" lineNum="123" parent="globals/SimpleWatchFacewinfoView" pc="268436720" symbol="timeUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="17" lineNum="124" parent="globals/SimpleWatchFacewinfoView" pc="268436733" symbol="timeUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="17" lineNum="125" parent="globals/SimpleWatchFacewinfoView" pc="268436743" symbol="timeUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="17" lineNum="127" parent="globals/SimpleWatchFacewinfoView" pc="268436753" symbol="timeUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="17" lineNum="129" parent="globals/SimpleWatchFacewinfoView" pc="268436761" symbol="timeUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="17" lineNum="130" parent="globals/SimpleWatchFacewinfoView" pc="268436773" symbol="timeUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="17" lineNum="131" parent="globals/SimpleWatchFacewinfoView" pc="268436783" symbol="timeUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="17" lineNum="132" parent="globals/SimpleWatchFacewinfoView" pc="268436794" symbol="timeUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="17" lineNum="135" parent="globals/SimpleWatchFacewinfoView" pc="268436807" symbol="timeUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="17" lineNum="136" parent="globals/SimpleWatchFacewinfoView" pc="268436869" symbol="timeUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="17" lineNum="138" parent="globals/SimpleWatchFacewinfoView" pc="268436931" symbol="timeUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="18" lineNum="141" parent="globals/SimpleWatchFacewinfoView" pc="268436976" symbol="getDateData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="18" lineNum="142" parent="globals/SimpleWatchFacewinfoView" pc="268436980" symbol="getDateData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="18" lineNum="143" parent="globals/SimpleWatchFacewinfoView" pc="268437028" symbol="getDateData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="18" lineNum="144" parent="globals/SimpleWatchFacewinfoView" pc="268437038" symbol="getDateData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="18" lineNum="146" parent="globals/SimpleWatchFacewinfoView" pc="268437048" symbol="getDateData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="19" lineNum="149" parent="globals/SimpleWatchFacewinfoView" pc="268437104" symbol="getBleData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="19" lineNum="150" parent="globals/SimpleWatchFacewinfoView" pc="268437108" symbol="getBleData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="19" lineNum="151" parent="globals/SimpleWatchFacewinfoView" pc="268437125" symbol="getBleData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="19" lineNum="152" parent="globals/SimpleWatchFacewinfoView" pc="268437150" symbol="getBleData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="19" lineNum="154" parent="globals/SimpleWatchFacewinfoView" pc="268437156" symbol="getBleData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="20" lineNum="158" parent="globals/SimpleWatchFacewinfoView" pc="268437160" symbol="getBatteryData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="20" lineNum="159" parent="globals/SimpleWatchFacewinfoView" pc="268437164" symbol="getBatteryData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="20" lineNum="160" parent="globals/SimpleWatchFacewinfoView" pc="268437181" symbol="getBatteryData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="20" lineNum="161" parent="globals/SimpleWatchFacewinfoView" pc="268437206" symbol="getBatteryData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="21" lineNum="164" parent="globals/SimpleWatchFacewinfoView" pc="268437262" symbol="getStepData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="21" lineNum="165" parent="globals/SimpleWatchFacewinfoView" pc="268437266" symbol="getStepData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="21" lineNum="166" parent="globals/SimpleWatchFacewinfoView" pc="268437298" symbol="getStepData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="22" lineNum="169" parent="globals/SimpleWatchFacewinfoView" pc="268437345" symbol="getNotificationData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="22" lineNum="170" parent="globals/SimpleWatchFacewinfoView" pc="268437349" symbol="getNotificationData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="22" lineNum="171" parent="globals/SimpleWatchFacewinfoView" pc="268437366" symbol="getNotificationData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="22" lineNum="172" parent="globals/SimpleWatchFacewinfoView" pc="268437385" symbol="getNotificationData"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="175" parent="globals/SimpleWatchFacewinfoView" pc="268437441" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="176" parent="globals/SimpleWatchFacewinfoView" pc="268437445" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="177" parent="globals/SimpleWatchFacewinfoView" pc="268437458" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="178" parent="globals/SimpleWatchFacewinfoView" pc="268437501" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="179" parent="globals/SimpleWatchFacewinfoView" pc="268437511" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="180" parent="globals/SimpleWatchFacewinfoView" pc="268437518" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="181" parent="globals/SimpleWatchFacewinfoView" pc="268437525" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="182" parent="globals/SimpleWatchFacewinfoView" pc="268437536" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="184" parent="globals/SimpleWatchFacewinfoView" pc="268437546" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="185" parent="globals/SimpleWatchFacewinfoView" pc="268437557" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="188" parent="globals/SimpleWatchFacewinfoView" pc="268437567" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="189" parent="globals/SimpleWatchFacewinfoView" pc="268437596" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="190" parent="globals/SimpleWatchFacewinfoView" pc="268437625" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="192" parent="globals/SimpleWatchFacewinfoView" pc="268437638" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="193" parent="globals/SimpleWatchFacewinfoView" pc="268437645" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="195" parent="globals/SimpleWatchFacewinfoView" pc="268437658" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="196" parent="globals/SimpleWatchFacewinfoView" pc="268437666" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="197" parent="globals/SimpleWatchFacewinfoView" pc="268437677" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="199" parent="globals/SimpleWatchFacewinfoView" pc="268437687" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="200" parent="globals/SimpleWatchFacewinfoView" pc="268437715" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="201" parent="globals/SimpleWatchFacewinfoView" pc="268437741" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="204" parent="globals/SimpleWatchFacewinfoView" pc="268437823" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="205" parent="globals/SimpleWatchFacewinfoView" pc="268437834" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="206" parent="globals/SimpleWatchFacewinfoView" pc="268437862" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="207" parent="globals/SimpleWatchFacewinfoView" pc="268437888" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="209" parent="globals/SimpleWatchFacewinfoView" pc="268437970" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="210" parent="globals/SimpleWatchFacewinfoView" pc="268437978" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="211" parent="globals/SimpleWatchFacewinfoView" pc="268438006" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="23" lineNum="212" parent="globals/SimpleWatchFacewinfoView" pc="268438032" symbol="drawStepsCircle"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="218" parent="globals/SimpleWatchFacewinfoView" pc="268438118" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="219" parent="globals/SimpleWatchFacewinfoView" pc="268438122" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="220" parent="globals/SimpleWatchFacewinfoView" pc="268438135" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="221" parent="globals/SimpleWatchFacewinfoView" pc="268438142" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="222" parent="globals/SimpleWatchFacewinfoView" pc="268438145" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="223" parent="globals/SimpleWatchFacewinfoView" pc="268438148" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="224" parent="globals/SimpleWatchFacewinfoView" pc="268438151" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="226" parent="globals/SimpleWatchFacewinfoView" pc="268438154" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="227" parent="globals/SimpleWatchFacewinfoView" pc="268438169" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="228" parent="globals/SimpleWatchFacewinfoView" pc="268438177" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="229" parent="globals/SimpleWatchFacewinfoView" pc="268438190" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="230" parent="globals/SimpleWatchFacewinfoView" pc="268438203" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="231" parent="globals/SimpleWatchFacewinfoView" pc="268438229" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="232" parent="globals/SimpleWatchFacewinfoView" pc="268438242" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="234" parent="globals/SimpleWatchFacewinfoView" pc="268438261" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="235" parent="globals/SimpleWatchFacewinfoView" pc="268438275" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="236" parent="globals/SimpleWatchFacewinfoView" pc="268438285" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="238" parent="globals/SimpleWatchFacewinfoView" pc="268438308" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="241" parent="globals/SimpleWatchFacewinfoView" pc="268438321" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="243" parent="globals/SimpleWatchFacewinfoView" pc="268438336" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="244" parent="globals/SimpleWatchFacewinfoView" pc="268438349" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="245" parent="globals/SimpleWatchFacewinfoView" pc="268438362" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="246" parent="globals/SimpleWatchFacewinfoView" pc="268438375" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="248" parent="globals/SimpleWatchFacewinfoView" pc="268438388" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="249" parent="globals/SimpleWatchFacewinfoView" pc="268438410" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="24" lineNum="250" parent="globals/SimpleWatchFacewinfoView" pc="268438464" symbol="drawLineText"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="254" parent="globals/SimpleWatchFacewinfoView" pc="268438485" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="255" parent="globals/SimpleWatchFacewinfoView" pc="268438489" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="256" parent="globals/SimpleWatchFacewinfoView" pc="268438497" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="258" parent="globals/SimpleWatchFacewinfoView" pc="268438504" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="259" parent="globals/SimpleWatchFacewinfoView" pc="268438524" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="260" parent="globals/SimpleWatchFacewinfoView" pc="268438540" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="261" parent="globals/SimpleWatchFacewinfoView" pc="268438553" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="262" parent="globals/SimpleWatchFacewinfoView" pc="268438573" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="263" parent="globals/SimpleWatchFacewinfoView" pc="268438587" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="264" parent="globals/SimpleWatchFacewinfoView" pc="268438640" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="266" parent="globals/SimpleWatchFacewinfoView" pc="268438653" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="267" parent="globals/SimpleWatchFacewinfoView" pc="268438664" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="268" parent="globals/SimpleWatchFacewinfoView" pc="268438680" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="270" parent="globals/SimpleWatchFacewinfoView" pc="268438696" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="271" parent="globals/SimpleWatchFacewinfoView" pc="268438716" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="272" parent="globals/SimpleWatchFacewinfoView" pc="268438729" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="273" parent="globals/SimpleWatchFacewinfoView" pc="268438755" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="274" parent="globals/SimpleWatchFacewinfoView" pc="268438808" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="275" parent="globals/SimpleWatchFacewinfoView" pc="268438818" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="276" parent="globals/SimpleWatchFacewinfoView" pc="268438871" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="277" parent="globals/SimpleWatchFacewinfoView" pc="268438881" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="278" parent="globals/SimpleWatchFacewinfoView" pc="268438888" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="280" parent="globals/SimpleWatchFacewinfoView" pc="268438904" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="281" parent="globals/SimpleWatchFacewinfoView" pc="268438924" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="282" parent="globals/SimpleWatchFacewinfoView" pc="268438937" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="283" parent="globals/SimpleWatchFacewinfoView" pc="268438963" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="284" parent="globals/SimpleWatchFacewinfoView" pc="268439016" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="285" parent="globals/SimpleWatchFacewinfoView" pc="268439026" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="286" parent="globals/SimpleWatchFacewinfoView" pc="268439079" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="287" parent="globals/SimpleWatchFacewinfoView" pc="268439089" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="288" parent="globals/SimpleWatchFacewinfoView" pc="268439096" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="293" parent="globals/SimpleWatchFacewinfoView" pc="268439112" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="294" parent="globals/SimpleWatchFacewinfoView" pc="268439132" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="295" parent="globals/SimpleWatchFacewinfoView" pc="268439185" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="297" parent="globals/SimpleWatchFacewinfoView" pc="268439195" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="298" parent="globals/SimpleWatchFacewinfoView" pc="268439211" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="299" parent="globals/SimpleWatchFacewinfoView" pc="268439224" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="300" parent="globals/SimpleWatchFacewinfoView" pc="268439244" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="301" parent="globals/SimpleWatchFacewinfoView" pc="268439297" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="303" parent="globals/SimpleWatchFacewinfoView" pc="268439307" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="304" parent="globals/SimpleWatchFacewinfoView" pc="268439321" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="305" parent="globals/SimpleWatchFacewinfoView" pc="268439374" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="306" parent="globals/SimpleWatchFacewinfoView" pc="268439384" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="307" parent="globals/SimpleWatchFacewinfoView" pc="268439437" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="309" parent="globals/SimpleWatchFacewinfoView" pc="268439450" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="310" parent="globals/SimpleWatchFacewinfoView" pc="268439461" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="311" parent="globals/SimpleWatchFacewinfoView" pc="268439477" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="313" parent="globals/SimpleWatchFacewinfoView" pc="268439493" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="314" parent="globals/SimpleWatchFacewinfoView" pc="268439513" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="315" parent="globals/SimpleWatchFacewinfoView" pc="268439566" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="317" parent="globals/SimpleWatchFacewinfoView" pc="268439576" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="318" parent="globals/SimpleWatchFacewinfoView" pc="268439589" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="319" parent="globals/SimpleWatchFacewinfoView" pc="268439615" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="320" parent="globals/SimpleWatchFacewinfoView" pc="268439668" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="321" parent="globals/SimpleWatchFacewinfoView" pc="268439678" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="322" parent="globals/SimpleWatchFacewinfoView" pc="268439731" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="323" parent="globals/SimpleWatchFacewinfoView" pc="268439741" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="324" parent="globals/SimpleWatchFacewinfoView" pc="268439748" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="326" parent="globals/SimpleWatchFacewinfoView" pc="268439764" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="327" parent="globals/SimpleWatchFacewinfoView" pc="268439784" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="328" parent="globals/SimpleWatchFacewinfoView" pc="268439837" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="330" parent="globals/SimpleWatchFacewinfoView" pc="268439847" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="331" parent="globals/SimpleWatchFacewinfoView" pc="268439860" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="332" parent="globals/SimpleWatchFacewinfoView" pc="268439886" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="333" parent="globals/SimpleWatchFacewinfoView" pc="268439939" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="334" parent="globals/SimpleWatchFacewinfoView" pc="268439949" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="335" parent="globals/SimpleWatchFacewinfoView" pc="268440002" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="336" parent="globals/SimpleWatchFacewinfoView" pc="268440012" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="337" parent="globals/SimpleWatchFacewinfoView" pc="268440019" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="341" parent="globals/SimpleWatchFacewinfoView" pc="268440035" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="25" lineNum="342" parent="globals/SimpleWatchFacewinfoView" pc="268440091" symbol="fieldUpdate"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="26" lineNum="345" parent="globals/SimpleWatchFacewinfoView" pc="268440124" symbol="onShow"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="27" lineNum="347" parent="globals/SimpleWatchFacewinfoView" pc="268440129" symbol="onHide"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="28" lineNum="349" parent="globals/SimpleWatchFacewinfoView" pc="268440134" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="29" lineNum="351" parent="globals/SimpleWatchFacewinfoView" pc="268440139" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="30" lineNum="9" parent="globals/SimpleWatchFacewinfoView" pc="268440410" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="30" lineNum="13" parent="globals/SimpleWatchFacewinfoView" pc="268440428" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="30" lineNum="14" parent="globals/SimpleWatchFacewinfoView" pc="268440471" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="30" lineNum="15" parent="globals/SimpleWatchFacewinfoView" pc="268440514" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="30" lineNum="16" parent="globals/SimpleWatchFacewinfoView" pc="268440534" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="30" lineNum="19" parent="globals/SimpleWatchFacewinfoView" pc="268440577" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="30" lineNum="26" parent="globals/SimpleWatchFacewinfoView" pc="268440643" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\dkrishn\\Documents\\Deepak\\Programming\\Monkey C\\Projects\\SimpleWatchFacewinfo\\source\\SimpleWatchFacewinfoView.mc" id="30" lineNum="9" parent="globals/SimpleWatchFacewinfoView" pc="268440410" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="32" lineNum="2" parent="globals/Rez/Drawables" pc="268440746" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="33" lineNum="6" parent="globals/Rez/Fonts" pc="268440748" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="34" lineNum="16" parent="globals/Rez/JsonData" pc="268440750" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="35" lineNum="25" parent="globals/Rez/Layouts" pc="268440144" symbol="WatchFace"/>
+<entry filename="Rez" id="35" lineNum="27" parent="globals/Rez/Layouts" pc="268440156" symbol="WatchFace"/>
+<entry filename="Rez" id="35" lineNum="28" parent="globals/Rez/Layouts" pc="268440180" symbol="WatchFace"/>
+<entry filename="Rez" id="35" lineNum="30" parent="globals/Rez/Layouts" pc="268440343" symbol="WatchFace"/>
+<entry filename="Rez" id="36" lineNum="18" parent="globals/Rez/Layouts" pc="268440749" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="37" lineNum="35" parent="globals/Rez/Menus" pc="268440747" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="38" lineNum="37" parent="globals/Rez/Strings" pc="268440751" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="39" lineNum="1" parent="globals/Rez" pc="268440722" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="39" lineNum="1" parent="globals/Rez" pc="268440722" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="20" symbol="stepsColor2"/>
+<entry field="true" id="19" symbol="stepsColor1"/>
+<entry field="true" id="61" symbol="HoursColorTitle"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="68" symbol="ColorGreen"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="43" symbol="kdamRegFont"/>
+<entry field="true" id="62" symbol="ColorRed"/>
+<entry field="true" id="27" symbol="miltFormat"/>
+<entry id="29" method="true" symbol="timeUpdate"/>
+<entry field="true" id="45" symbol="caveatRegFont"/>
+<entry field="true" id="55" symbol="MilitaryFormatTitle"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="56" symbol="ColorDKRed"/>
+<entry id="34" method="true" symbol="getNotificationData"/>
+<entry field="true" id="50" symbol="ColorBlue"/>
+<entry field="true" id="49" symbol="NotificationsDisplayTitle"/>
+<entry field="true" id="24" symbol="stepsDisplay"/>
+<entry id="33" method="true" symbol="getStepData"/>
+<entry field="true" id="60" symbol="AppName"/>
+<entry field="true" id="46" symbol="caveatBoldFont"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry field="true" id="65" symbol="BatteryDisplayTitle"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="58" symbol="StepsCircleTitle"/>
+<entry id="9" object="true" symbol="SimpleWatchFacewinfoApp"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="59" symbol="StepsDisplayTitle"/>
+<entry field="true" id="53" symbol="StepsCircleColor2Title"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="67" symbol="BLEDisplayTitle"/>
+<entry field="true" id="12" symbol="timeBoldFont"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="39" module="true" symbol="Menus"/>
+<entry field="true" id="48" symbol="DateDisplayTitle"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry field="true" id="54" symbol="ColorDarkGray"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="8389742" symbol="foregroundColor"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="17" symbol="minsColor"/>
+<entry field="true" id="44" symbol="kdamBoldFont"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="16" symbol="fonts"/>
+<entry field="true" id="66" symbol="ColorWhite"/>
+<entry field="true" id="22" symbol="bleDisplay"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry field="true" id="57" symbol="ColorBlack"/>
+<entry field="true" id="8389793" method="true" symbol="debug"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="41" symbol="customFont"/>
+<entry id="36" method="true" symbol="drawLineText"/>
+<entry field="true" id="21" symbol="dateDisplay"/>
+<entry id="35" method="true" symbol="drawStepsCircle"/>
+<entry field="true" id="15" symbol="fields"/>
+<entry id="32" method="true" symbol="getBatteryData"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="37" method="true" symbol="fieldUpdate"/>
+<entry field="true" id="14" symbol="iconFont"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry field="true" id="42" symbol="robotoFont"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="40" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="31" method="true" symbol="getBleData"/>
+<entry field="true" id="23" symbol="batteryDisplay"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry field="true" id="51" symbol="BackgroundColorTitle"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry id="28" method="true" symbol="getTimeData"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="64" symbol="StepsCircleColor1Title"/>
+<entry field="true" id="18" symbol="hoursColor"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="11" symbol="timeRegFont"/>
+<entry field="true" id="13" symbol="dateFont"/>
+<entry field="true" id="25" symbol="notificationsDisplay"/>
+<entry field="true" id="47" symbol="ColorLightGray"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="26" symbol="stepsCircle"/>
+<entry field="true" id="63" symbol="ForegroundColorTitle"/>
+<entry id="38" module="true" symbol="Layouts"/>
+<entry id="10" object="true" symbol="SimpleWatchFacewinfoView"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="30" method="true" symbol="getDateData"/>
+<entry field="true" id="8389743" symbol="backgroundColor"/>
+<entry field="true" id="52" symbol="MinsColorTitle"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435483" name="state" stackId="1" startPc="268435479"/>
+<entry arg="true" endPc="268435488" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435625" name="dictionary" stackId="1" startPc="268435585"/>
+<entry arg="true" endPc="268435692" name="dc" stackId="1" startPc="268435627"/>
+<entry arg="true" endPc="268435776" name="dc" stackId="1" startPc="268435720"/>
+<entry endPc="268436597" name="field_4" stackId="5" startPc="268435781"/>
+<entry endPc="268436597" name="field_3" stackId="4" startPc="268435781"/>
+<entry endPc="268436597" name="field_2" stackId="3" startPc="268435781"/>
+<entry endPc="268436597" name="field_1" stackId="2" startPc="268435781"/>
+<entry arg="true" endPc="268436598" name="dc" stackId="1" startPc="268435777"/>
+<entry endPc="268436714" name="hours" stackId="2" startPc="268436603"/>
+<entry endPc="268436714" name="secs" stackId="4" startPc="268436603"/>
+<entry endPc="268436714" name="mins" stackId="3" startPc="268436603"/>
+<entry endPc="268436714" name="clockTime" stackId="1" startPc="268436603"/>
+<entry endPc="268436974" name="hours" stackId="3" startPc="268436720"/>
+<entry endPc="268436974" name="main_data" stackId="5" startPc="268436720"/>
+<entry endPc="268436974" name="mins" stackId="4" startPc="268436720"/>
+<entry endPc="268436974" name="time_data" stackId="2" startPc="268436720"/>
+<entry arg="true" endPc="268436975" name="dc" stackId="1" startPc="268436716"/>
+<entry endPc="268437102" name="day" stackId="3" startPc="268436980"/>
+<entry endPc="268437102" name="day_of_week" stackId="2" startPc="268436980"/>
+<entry endPc="268437102" name="today" stackId="1" startPc="268436980"/>
+<entry endPc="268437158" name="settings" stackId="1" startPc="268437108"/>
+<entry endPc="268437260" name="stats" stackId="1" startPc="268437164"/>
+<entry endPc="268437260" name="bat_value" stackId="2" startPc="268437164"/>
+<entry endPc="268437343" name="steps_data" stackId="1" startPc="268437266"/>
+<entry endPc="268437439" name="mySettings" stackId="1" startPc="268437349"/>
+<entry endPc="268437439" name="notif_data" stackId="2" startPc="268437349"/>
+<entry endPc="268438116" name="required_num_steps" stackId="10" startPc="268437445"/>
+<entry endPc="268438116" name="required_steps_end" stackId="11" startPc="268437445"/>
+<entry endPc="268438116" name="total_mins_counted" stackId="5" startPc="268437445"/>
+<entry endPc="268438116" name="mins_counted" stackId="4" startPc="268437445"/>
+<entry endPc="268438116" name="steps_end" stackId="9" startPc="268437445"/>
+<entry endPc="268438116" name="ratio" stackId="6" startPc="268437445"/>
+<entry endPc="268438116" name="time_data" stackId="2" startPc="268437445"/>
+<entry endPc="268438116" name="steps" stackId="7" startPc="268437445"/>
+<entry endPc="268438116" name="mins_elapsed" stackId="3" startPc="268437445"/>
+<entry endPc="268438116" name="steps_goal" stackId="8" startPc="268437445"/>
+<entry arg="true" endPc="268438117" name="dc" stackId="1" startPc="268437441"/>
+<entry endPc="268438307" name="i" stackId="11" startPc="268438169"/>
+<entry endPc="268438483" name="i" stackId="13" startPc="268438336"/>
+<entry endPc="268438483" name="len" stackId="5" startPc="268438122"/>
+<entry endPc="268438483" name="temp_color" stackId="10" startPc="268438122"/>
+<entry endPc="268438483" name="temp_font" stackId="7" startPc="268438122"/>
+<entry endPc="268438483" name="x_val" stackId="12" startPc="268438122"/>
+<entry endPc="268438483" name="temp_width" stackId="9" startPc="268438122"/>
+<entry endPc="268438483" name="total_text_width" stackId="6" startPc="268438122"/>
+<entry endPc="268438483" name="temp_text" stackId="8" startPc="268438122"/>
+<entry arg="true" endPc="268438484" name="dc" stackId="1" startPc="268438118"/>
+<entry arg="true" endPc="268438484" name="main_array" stackId="4" startPc="268438118"/>
+<entry arg="true" endPc="268438484" name="x_loc" stackId="2" startPc="268438118"/>
+<entry arg="true" endPc="268438484" name="y_loc" stackId="3" startPc="268438118"/>
+<entry endPc="268438900" name="temp_array" stackId="7" startPc="268438716"/>
+<entry endPc="268439108" name="temp_array" stackId="8" startPc="268438924"/>
+<entry endPc="268439760" name="temp_array" stackId="9" startPc="268439513"/>
+<entry endPc="268440031" name="temp_array" stackId="10" startPc="268439784"/>
+<entry endPc="268440122" name="main_data" stackId="5" startPc="268438489"/>
+<entry endPc="268440122" name="count" stackId="6" startPc="268438489"/>
+<entry endPc="268440122" name="y_loc" stackId="11" startPc="268438489"/>
+<entry arg="true" endPc="268440123" name="type_2" stackId="4" startPc="268438485"/>
+<entry arg="true" endPc="268440123" name="type_1" stackId="3" startPc="268438485"/>
+<entry arg="true" endPc="268440123" name="dc" stackId="1" startPc="268438485"/>
+<entry arg="true" endPc="268440123" name="field_num" stackId="2" startPc="268438485"/>
+<entry endPc="268440369" name="rez_cmp_local_custom_drawable_12610975251180889376" stackId="2" startPc="268440156"/>
+<entry endPc="268440369" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268440156"/>
+<entry arg="true" endPc="268440370" name="dc" stackId="1" startPc="268440144"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="customFont"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="robotoFont"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="kdamRegFont"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="kdamBoldFont"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="caveatRegFont"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="caveatBoldFont"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="iconFont"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="DateDisplayTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="NotificationsDisplayTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MinsColorTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="StepsCircleColor2Title"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDKRed"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="StepsCircleTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="StepsDisplayTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="HoursColorTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="StepsCircleColor1Title"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BatteryDisplayTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BLEDisplayTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorGreen"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/Background" offset="166" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry label="globals/SimpleWatchFacewinfoApp" offset="221" parentId="globals" symbolId="SimpleWatchFacewinfoApp" type="class"/>
+<dataEntry label="globals/SimpleWatchFacewinfoView" offset="300" parentId="globals" symbolId="SimpleWatchFacewinfoView" type="class"/>
+<dataEntry label="globals/Rez" offset="651" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="730" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="769" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="800" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="887" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="926" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="957" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435478" name="initialize" parent="SimpleWatchFacewinfoApp" startPc="268435456">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435483" name="onStart" parent="SimpleWatchFacewinfoApp" startPc="268435479">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435488" name="onStop" parent="SimpleWatchFacewinfoApp" startPc="268435484">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435530" name="getInitialView" parent="SimpleWatchFacewinfoApp" startPc="268435489">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435551" name="onSettingsChanged" parent="SimpleWatchFacewinfoApp" startPc="268435531">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440409" name="&lt;init&gt;" parent="SimpleWatchFacewinfoApp" startPc="268440391">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435580" name="getApp" startPc="268435552">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435626" name="initialize" parent="Background" startPc="268435581">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435692" name="draw" parent="Background" startPc="268435627">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440390" name="&lt;init&gt;" parent="Background" startPc="268440372">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435719" name="initialize" parent="SimpleWatchFacewinfoView" startPc="268435693">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435776" name="onLayout" parent="SimpleWatchFacewinfoView" startPc="268435720">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436598" name="onUpdate" parent="SimpleWatchFacewinfoView" startPc="268435777">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436715" name="getTimeData" parent="SimpleWatchFacewinfoView" startPc="268436599">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436975" name="timeUpdate" parent="SimpleWatchFacewinfoView" startPc="268436716">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437103" name="getDateData" parent="SimpleWatchFacewinfoView" startPc="268436976">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437159" name="getBleData" parent="SimpleWatchFacewinfoView" startPc="268437104">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437261" name="getBatteryData" parent="SimpleWatchFacewinfoView" startPc="268437160">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437344" name="getStepData" parent="SimpleWatchFacewinfoView" startPc="268437262">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437440" name="getNotificationData" parent="SimpleWatchFacewinfoView" startPc="268437345">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438117" name="drawStepsCircle" parent="SimpleWatchFacewinfoView" startPc="268437441">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438484" name="drawLineText" parent="SimpleWatchFacewinfoView" startPc="268438118">
+<param id="dc"/>
+<param id="x_loc"/>
+<param id="y_loc"/>
+<param id="main_array"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440123" name="fieldUpdate" parent="SimpleWatchFacewinfoView" startPc="268438485">
+<param id="dc"/>
+<param id="field_num"/>
+<param id="type_1"/>
+<param id="type_2"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440128" name="onShow" parent="SimpleWatchFacewinfoView" startPc="268440124">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440133" name="onHide" parent="SimpleWatchFacewinfoView" startPc="268440129">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440138" name="onExitSleep" parent="SimpleWatchFacewinfoView" startPc="268440134">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440143" name="onEnterSleep" parent="SimpleWatchFacewinfoView" startPc="268440139">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440721" name="&lt;init&gt;" parent="SimpleWatchFacewinfoView" startPc="268440410">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440746" name="&lt;init&gt;" parent="Drawables" startPc="268440746">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440748" name="&lt;init&gt;" parent="Fonts" startPc="268440748">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440750" name="&lt;init&gt;" parent="JsonData" startPc="268440750">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268440370" name="WatchFace" parent="Layouts" startPc="268440144">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440749" name="&lt;init&gt;" parent="Layouts" startPc="268440749">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440747" name="&lt;init&gt;" parent="Menus" startPc="268440747">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440751" name="&lt;init&gt;" parent="Strings" startPc="268440751">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268440745" name="&lt;init&gt;" parent="Rez" startPc="268440722">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
